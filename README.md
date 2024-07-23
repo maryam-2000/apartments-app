@@ -50,7 +50,6 @@ The application allows users to view a list of apartments, see details about eac
 ## Development Details
 - **Frontend**: Implemented using Next.js with styled-components for styling & MUI components.
 - **Backend**: Implemented using Node.js and TypeScript with Express.js.
-- **Mobile Application**: Basic structure created with React Native.
 
 ## Challenges and Learnings
 - **Time Management**: The assignment was completed within a strict 4-hour time limit due to having other work commitments, affecting the depth of implementation and debugging.
