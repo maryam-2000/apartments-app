@@ -1,4 +1,4 @@
-# Apartments Listing App
+# Apartments Listing Web/App
 
 ## Overview
 
@@ -6,7 +6,6 @@ This project is a simple listing apartments app with the following features:
 - **Backend Application**: Built with Node.js and TypeScript.
 - **Frontend Application**: Built with Next.js.
 - **Database**: MongoDB (NoSQL).
-- **Mobile Application**: Built with React Native.
 
 The application allows users to view a list of apartments, see details about each apartment, and add new apartments.
 
@@ -21,10 +20,6 @@ The application allows users to view a list of apartments, see details about eac
 - **Apartment Listing Page**: Displays a list of apartments.
 - **Apartment Details Page**: Shows details of a selected apartment.
 - **Add Apartment Page**: Adds a new apartment.
-
-### Mobile Application
-- **Apartment Listing Page**: Displays a list of apartments.
-- **Apartment Details Page**: Shows details of a selected apartment.
 
 ## Setup and Installation
 
